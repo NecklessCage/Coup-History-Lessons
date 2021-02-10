@@ -15,11 +15,11 @@ src: [Ted Talk](https://www.youtube.com/watch?v=YJSehRlU34w)
     - Data covers entire world
     - Include every known case with at least 1000 observed participants
 
-![Success Rates of Nonviolent and Violent Campaigns, 1900-2006](img/violent-nonviolent-comparison.png "Success Rates of Nonviolent and Violent Campaigns, 1900-2006")
+![Success Rates of Nonviolent and Violent Campaigns, 1900-2006](img/အောင်မြင်မှုနှိုင်းယှဉ်ချက်.png "Success Rates of Nonviolent and Violent Campaigns, 1900-2006")
 
 The nonviolent campaigns are **twice** as likely to succeed as violent ones. This trend has been increasing:
 
-![Success Rates by Decade, 1940-2006](img/nonviolent-campaigns-success-trend.png "Success Rates by Decade, 1940-2006")
+![Success Rates by Decade, 1940-2006](img/အောင်မြင်မှုtrend.png "Success Rates by Decade, 1940-2006")
 
 The nonviolents campaigns are increasingly more successful and common, and violent ones are increasingly rare and unsuccessful.
 
@@ -64,6 +64,8 @@ It lies in People Power.
 - Large Number of People Remove Themselves from Cooperation -> Odds are in their Favor
 
 - Celebrate the nonviolent victories of the past more than the violent ones so that children of the future choose the nonviolent path.
+
+---
 
 # လူထုမနာခံမှု Civil Disobediance ဘာကြောင့် အောင်မြင်ကြသလဲ
 
