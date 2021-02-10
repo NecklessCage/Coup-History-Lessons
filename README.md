@@ -15,11 +15,11 @@ src: [Ted Talk](https://www.youtube.com/watch?v=YJSehRlU34w)
     - Data covers entire world
     - Include every known case with at least 1000 observed participants
 
-![Success Rates of Nonviolent and Violent Campaigns, 1900-2006](img/အောင်မြင်မှုနှိုင်းယှဉ်ချက်.png "Success Rates of Nonviolent and Violent Campaigns, 1900-2006")
+![Success Rates of Nonviolent and Violent Campaigns, 1900-2006](img/movement-comparison.mm.png "Success Rates of Nonviolent and Violent Campaigns, 1900-2006")
 
 The nonviolent campaigns are **twice** as likely to succeed as violent ones. This trend has been increasing:
 
-![Success Rates by Decade, 1940-2006](img/အောင်မြင်မှုtrend.png "Success Rates by Decade, 1940-2006")
+![Success Rates by Decade, 1940-2006](img/success-trend.mm.png "Success Rates by Decade, 1940-2006")
 
 The nonviolents campaigns are increasingly more successful and common, and violent ones are increasingly rare and unsuccessful.
 
@@ -82,12 +82,12 @@ It lies in People Power.
 ---
 
 
-![အကြမ်းမဖက်နှင့် အကြမ်းဖက် လှုပ်ရှားမှု များ၏ အောင်မြင်မှု ရာနှုန်း၊ ၁၉၀၀-၂၀၀၆](img/အောင်မြင်မှုနှိုင်းယှဉ်ချက်.png "အကြမ်းမဖက်နှင့် အကြမ်းဖက် လှုပ်ရှားမှု များ၏ အောင်မြင်မှု ရာနှုန်း၊ ၁၉၀၀-၂၀၀၆")
+![အကြမ်းမဖက်နှင့် အကြမ်းဖက် လှုပ်ရှားမှု များ၏ အောင်မြင်မှု ရာနှုန်း၊ ၁၉၀၀-၂၀၀၆](img/movement-comparison.mm.png "အကြမ်းမဖက်နှင့် အကြမ်းဖက် လှုပ်ရှားမှု များ၏ အောင်မြင်မှု ရာနှုန်း၊ ၁၉၀၀-၂၀၀၆")
 *<p style="text-align: center;">ပုံ-၁ ။  ။ အကြမ်းမဖက်နှင့် အကြမ်းဖက် လှုပ်ရှားမှု များ၏ အောင်မြင်မှု ရာနှုန်း၊ ၁၉၀၀-၂၀၀၆</p>*
 
 ဒီထက်ပို၍ အားတက်ဖို့ကောင်းသည်မှာ ၎င်း trend သည် အကြမ်းမဖက်လှုပ်ရှားမှုများအတွက် ပို၍ပင် အားကောင်းလာနေပါသည်။
 
-![အောင်မြင်မှု ရာနှုန်း၊ ၁၉၄၀-၂၀၀၆](img/အောင်မြင်မှုtrend.png "အောင်မြင်မှု ရာနှုန်း၊ ၁၉၄၀-၂၀၀၆")
+![အောင်မြင်မှု ရာနှုန်း၊ ၁၉၄၀-၂၀၀၆](img/success-trend.mm.png "အောင်မြင်မှု ရာနှုန်း၊ ၁၉၄၀-၂၀၀၆")
 *<p style="text-align: center;">ပုံ-၂ ။  ။ ဆယ်စုနှစ်အလိုက် အောင်မြင်မှု ရာနှုန်း၊ ၁၉၄၀-၂၀၀၆</p>*
 
     အစွမ်းကုန် ရက်စက်ကြမ်းတမ်းတဲ့ အကြွင်းမဲ့အာဏာရှင် တွေလက်အောက်မှာတောင် အကြမ်းမဖက်လှုပ်ရှားမှုတွေသည် အောင်မြင်မှုမြင့်မားလာပါသည်။
